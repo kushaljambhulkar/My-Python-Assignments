@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @kushaljambhulkar
 - 👀 I’m interested in Software Development
--    I completed cources of C, C++ and java
+-    I completed cources of C, C++, java and Python
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking for job
+- 💞️ I’m looking for a job
 - 📫 You can reach me by mail or contact no.8999714817 / kushaljambhulkar82@gmail.com
 
 <!---
